@@ -1,0 +1,11 @@
+Multiplicando 3 x 0= 0
+Multiplicando 3 x 1= 2
+Multiplicando 3 x 2= 4
+Multiplicando 3 x 3= 6
+Multiplicando 3 x 4= 8
+Multiplicando 3 x 5= 10
+Multiplicando 3 x 6= 12
+Multiplicando 3 x 7= 14
+Multiplicando 3 x 8= 16
+Multiplicando 3 x 9= 18
+Multiplicando 3 x 10= 20

@@ -1,0 +1,11 @@
+Multiplicando 2 x 0= 0
+Multiplicando 2 x 1= 2
+Multiplicando 2 x 2= 4
+Multiplicando 2 x 3= 6
+Multiplicando 2 x 4= 8
+Multiplicando 2 x 5= 10
+Multiplicando 2 x 6= 12
+Multiplicando 2 x 7= 14
+Multiplicando 2 x 8= 16
+Multiplicando 2 x 9= 18
+Multiplicando 2 x 10= 20
